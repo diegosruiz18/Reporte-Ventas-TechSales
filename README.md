@@ -4,6 +4,10 @@ Este dashboard nos indica la situación financiera de TechSales en un periodo de
 
 ![](dashboard.JPG)
 
+## Objetivo:
+
+Se desea conocer el desempeño financiero de la empresa considerando los montos de ventas y beneficios recaudados por día, cuánto dinero se ha reembolsado en las campañas, además del monto de beneficios que se obtiene por categoría de producto.
+
 ## Indicadores clave:
 
 - Ventas: cantidad de ventas realizadas. 
