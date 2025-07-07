@@ -1,5 +1,7 @@
 # Reporte de Ventas TechSales
 
+📌 Disponible también en [Inglés](README.md) | 📌 Also available in [English](README.md)
+
 Este dashboard desarrollado en Power BI está diseñado para analizar las ventas de TechSales y evaluar su desempeño financiero en un periodo de 18 días, principalmente en Norte América.
 
 ![](dashboard.JPG)
